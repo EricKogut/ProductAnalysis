@@ -1,6 +1,7 @@
 from builtins import print
-
 import Product
+
+#Will be used for parsing the files
 import re
 
 
