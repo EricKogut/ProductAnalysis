@@ -1,4 +1,7 @@
+#Required to write to a csv file
 import csv
+
+#Needed in order to compare titles
 from difflib import SequenceMatcher
 
 
